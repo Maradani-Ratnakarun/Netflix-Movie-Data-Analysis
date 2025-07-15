@@ -73,8 +73,7 @@ Movie-Insight-Analytics/
 ---
 
 ## 📂 Dataset
-- 🎬 [TMDb Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-
+- 🎬 [TMDb Movie Dataset](https://github.com/Maradani-Ratnakarun/Netflix-Movie-Data-Analysis/blob/main/mymoviedb.csv)
 ---
 
 ## 👨‍💻 About Me
