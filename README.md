@@ -17,9 +17,12 @@ This project demonstrates **Maradani Ratnakarun’s** ability to transform raw m
 
 ## ✨ Why This Project?
 🎯 Simulating real-world scenarios, this analysis answers:  
-- Which genres are trending globally?
-- How do production budgets relate to box office success?
-- What patterns exist in movie ratings and audience feedback?
+-What is the most frequent genre in the dataset?
+-What genres has highest votes ?
+-What movie got the highest popularity ? what's its genre ?
+-What movie got the lowest popularity ? what's its genre ?
+-Which year has the most filmmed movies?
+
 
 These insights can guide **media companies and investors** in data-driven decision-making.
 
