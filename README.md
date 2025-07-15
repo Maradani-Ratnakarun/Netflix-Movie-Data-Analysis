@@ -1,5 +1,5 @@
 # Netflix-Movie-Data-Analysis
-# 🎬 Movie Insight Analytics – Data-Driven Insights into the Film Industry
+
 📊 *Uncover patterns in movie production, genres, and financial performance using Python and data visualization.*
 
 ---
@@ -73,7 +73,7 @@ Hi, I’m **Maradani Ratnakarun** 👋, a passionate Data Analyst and Python Dev
 - 📊 Storytelling with Data  
 - 🧠 Turning insights into business value
 
-📬 **Let’s connect:** [LinkedIn]() | [GitHub]() | [Email](mailto:maradaniratnakarun@gmail.com)
+📬 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/maradani-ratnakarun-783534331/) | [GitHub](https://github.com/Maradani-Ratnakarun) | [Email](maradaniratnakarun@gmail.com)
 
 ---
 
