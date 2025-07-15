@@ -37,9 +37,9 @@ These insights can guide **media companies and investors** in data-driven decisi
 |---------------------------------------|-----------------------------------------|
 | ![Ratings](https://github.com/Maradani-Ratnakarun/Netflix-Movie-Data-Analysis/blob/main/votes-distribution.png)        | ![Genres](https://github.com/Maradani-Ratnakarun/Netflix-Movie-Data-Analysis/blob/main/genre-column.png)      |
 
-| 💸 Budget vs Revenue Insights          |
+| 💸 Yearly Releases      |
 |-----------------------------------------|
-| ![Budget vs Revenue](images/budget_revenue.png) |
+| ![Budget vs Revenue](https://github.com/Maradani-Ratnakarun/Netflix-Movie-Data-Analysis/blob/main/Release-Date-column-distribution.png) |
 
 ---
 
