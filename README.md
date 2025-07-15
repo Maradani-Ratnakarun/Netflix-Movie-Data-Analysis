@@ -35,7 +35,7 @@ These insights can guide **media companies and investors** in data-driven decisi
 ## 📊 Visual Storytelling
 | ⭐ Ratings Distribution                | 🎭 Genre Popularity Trends             |
 |---------------------------------------|-----------------------------------------|
-| ![Ratings](images/ratings.png)        | ![Genres](images/genres_trend.png)      |
+| ![Ratings](https://github.com/Maradani-Ratnakarun/Netflix-Movie-Data-Analysis/blob/main/votes-distribution.png)        | ![Genres](images/genres_trend.png)      |
 
 | 💸 Budget vs Revenue Insights          |
 |-----------------------------------------|
