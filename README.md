@@ -73,7 +73,7 @@ Hi, I’m **Maradani Ratnakarun** 👋, a passionate Data Analyst and Python Dev
 - 📊 Storytelling with Data  
 - 🧠 Turning insights into business value
 
-📬 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/maradani-ratnakarun-783534331/) | [GitHub](https://github.com/Maradani-Ratnakarun) | [Email](maradaniratnakarun@gmail.com)
+📬 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/maradani-ratnakarun-783534331/) | [GitHub](https://github.com/Maradani-Ratnakarun) | [Email](mailto:maradaniratnakarun@gmail.com)
 
 ---
 
