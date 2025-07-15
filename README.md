@@ -44,25 +44,13 @@ These insights can guide **media companies and investors** in data-driven decisi
 |-----------------------------------------|
 | ![Budget vs Revenue](https://github.com/Maradani-Ratnakarun/Netflix-Movie-Data-Analysis/blob/main/Release-Date-column-distribution.png) |
 
----
-
-## 📁 Repository Structure
-```
-Movie-Insight-Analytics/
-├── data/                 # Datasets
-├── notebooks/            # Jupyter Notebook(s)
-│    └── Movie-Data-Analysis.ipynb
-├── images/               # Visuals for README
-├── requirements.txt      # Python dependencies
-└── README.md             # Project overview
-```
 
 ---
 
 ## 🚀 Getting Started
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/Movie-Insight-Analytics.git
+   git clone https://github.com/<Maradani-Ratnakarun>/Netflix-Movie-Data-Analysis.git
    ```
 2. Install dependencies:  
    ```bash
